@@ -4,8 +4,8 @@
 
   <groupId>plugin</groupId>
   <artifactId>plugin</artifactId>
-  <version>1.0-SNAPSHOT</version>
-  <packaging>pom</packaging>
+  <version>R_2_X-SNAPSHOT</version>
+  <packaging>jar</packaging>
 
   <name>plugin</name>
   <url>http://maven.apache.org</url>
@@ -19,7 +19,7 @@
    <dependency>
     	<groupId>plugin.git</groupId>
   		<artifactId>plugin-git</artifactId>
-  		<version>1.0-SNAPSHOT</version>
+  		<version>R_2_X-SNAPSHOT</version>
     </dependency>
    
     <dependency>
